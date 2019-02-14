@@ -1,10 +1,9 @@
 
-# $NAME's Course Goals
+# Darren's Course Goals
 
 ## Goal One
 
-Use better pedagogy!
-
+Libguide
 -----
 
 Benchmark: Learn three new things about scaffolding.
