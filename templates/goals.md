@@ -1,5 +1,6 @@
 
-# $Darren's Course Goals
+
+# Darren's Course Goals
 
 ## Goal One
 
