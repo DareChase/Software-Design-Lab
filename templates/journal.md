@@ -1,4 +1,4 @@
-# Darren's Technical Journal
+# Darren's Technical Journal (2019)
 
 ## The week following Class 1 (1/30-2/6)
 
@@ -30,3 +30,20 @@ I read and listened to “Dear Developer, the Web isn’t about You,” “Two B
 
 I stayed late again after class 4 because I needed to figure out why I couldn’t push updated files to github. It turns out that the changes I made directly on the website made the directory on my laptop different from what was on github. This meant I had to merge the two files by pulling them, making the changes, and then I could push them.
 
+So, then I spent time during the week finishing up my journal entries and pushing them to github. This finally worked. Hopefully, I won’t screw something up again in this process.
+
+In class we went over HTML. I had created websites previously in other web design classes, so the language and construction of pages was familiar to me. I needed to review some things because in class, I could get the background color nor the fonts to change. I had missed some steps because I had to focus on getting the photo to appear. During the week, I went back to look at the html I had used in previous websites I had made to see where things went wrong. I had put some elements in wrong places or left something out. Once I figured out the mistakes, I was able to fix it. I need to take more time with the steps in creating things, but the class doesn’t allow this as a lot of information has to get presented. Later, I spent time going through the tutorials on W3Schools from the beginning to refresh my memory and to be able to take my time with each element.
+
+I prepared for the next class I read the articles about Static Site Generators, WordPress sites, and what Bootstrap is. Then, I searched the different ways of installing Jekyll because it was needed in the nest class. There were some cases that seemed more elaborate than others and eventually I mostly relied on the instructions in the syllabus. I ended up getting it installed without too much trouble.
+
+Time was spent on finishing journal entries and pushing them to github. Then a few hours was spent working with HTML. Later time was spent doing readings and looking into Jekyll and uploading it to my laptop.
+
+## The week following Class 5 (2/28-3/6)
+
+In class we worked on using Jekyll to create a blog and use HTML with it. I kept up but then the head.html wouldn’t show up even though it was present within the includes folder. I get focused on one step and misses those that follow. Anyway, later I was looking on Jekyll and found a video tutorial. It was from “Giraffe Academy,” and led by Mike Dane. I started form lesson one and worked my way through some lessons. These lessons also were taught faster than I could keep up with but I could just rewind and make sure I was doing each step at my own pace. He went into more detail about the “front matter.” I’m looking at adding a page at this moment.
+
+I actually could use one of the Jekyll Blogs I had created in class that we didn’t use because we created a blog from scratch when people weren’t getting all the same items in their folder as Patrick had. On the video, Mike’s folder had the same elements that I had previously in creating a blog through Jekyll so I used it with the tutorial. It worked to create a new blog, but when I created a second blog to add to the posts it wouldn’t show up correctly. The same visual would show up as it did in class with a title of “Index” and the links to the separate posts listed under it. I keep trying to figure out why this happened since I followed the same steps. I got frustrated and stooped. A few days later I went back to it and when I typed in “jekyll serve” and opened the site, the blogs showed up correctly. Maybe I have to shut everything down after each change to see it.
+
+In between time I went back to the “Learn Python the Hard Way” tutorial. I typed in all the quoted statements and they showed up correctly. Then, when I tried to add a new statement or hide a statement, it wouldn’t work. The error was saying the I needed parentheses around the quotes. This happened before doing this tutorial. In class we did add parentheses but in this tutorial they aren’t used. I just was looking at the tutorial again and I see it is for python 2. I wonder if that is the difference. At least I’m getting more practice with command line.
+
+Time was spennt continuing to read Decoding Liberation as I can carry it around with me, and still going through the other readings. A few hours were spent on Jekyll, and a couple hours on Python. I need to find more time to practice since I still don’t feel totally comfortable working with these programs yet.
